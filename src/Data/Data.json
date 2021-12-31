@@ -76,8 +76,8 @@
           "type": "topclothes",
           "name": "Top Cloth 1",
           "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, nulla.",
-          "imgSrc_jpg": "./assets/images/clothes/topcloth1_show.jpg",
-          "imgSrc_png": "./assets/images/clothes/topcloth1.png"
+          "imgSrc_jpg": "../assets/images/clothes/topcloth1_show.jpg",
+          "imgSrc_png": "../assets/images/clothes/topcloth1.png"
         },
         {
           "id": "topcloth_2",
